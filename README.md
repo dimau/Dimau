@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dimau
+- 👀 I’m interested in JavaScript, React, Redux, Front-End software development
+- 🌱 I’m currently on the junior level
+- 💞️ I’m looking to collaborate on an project where I can help with front-end development 
+- 📫 How to reach me: dimau777@gmail.com
