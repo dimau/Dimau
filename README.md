@@ -7,5 +7,5 @@
 <h2>Contacts</h2>
 <ul>
 <li>Email: dimau777@gmail.com</li>
-<li>Telegram: @UshakovDmitrii</li>
+<li>Telegram: <a href="https://t.me/UshakovDmitrii" target="_blank">@UshakovDmitrii</li>
 </ul>
