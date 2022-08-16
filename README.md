@@ -5,5 +5,7 @@
 - 💞️ I’m looking to collaborate on an project where I can help with front-end development 
 
 <h2>Contacts</h2>
-Email: dimau777@gmail.com
-Telegram: @UshakovDmitrii
+<ul>
+<li>Email: dimau777@gmail.com</li>
+<li>Telegram: @UshakovDmitrii</li>
+</ul>
