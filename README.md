@@ -6,6 +6,12 @@ Right now I'm focused on Front-End Dev, but before that I had almost 10-year IT 
 - 🌱 I’m currently on the junior level
 - 💞️ I’m looking to collaborate on an project where I can help with front-end development 
 
+<h2>My strengths</h2>
+<ul>
+  <li>I know what "business value" of the feature or the product does mean</li>
+  <li>I had wide experience to evaluate time for developing differing features, hope it will help me with reliable estimates in a new role too</li>
+</ul>
+
 <h2>Solving algorithmic problems</h2>
 <ul>
   <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
