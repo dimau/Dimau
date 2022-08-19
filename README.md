@@ -10,6 +10,7 @@ Right now I'm focused on Front-End Dev, but before that I had almost 10-year IT 
 <ul>
   <li>I know what "business value" of the feature or the product does mean</li>
   <li>I had wide experience to evaluate time for developing differing features, hope it will help me with reliable estimates in a new role too</li>
+  <li>Ability to learn quickly and with pleasure: I use my own knowledge system based on Evernote</li>
 </ul>
 
 <h2>Solving algorithmic problems</h2>
