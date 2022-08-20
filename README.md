@@ -9,9 +9,9 @@ Right now I'm focused on Front-End Dev, but before that I had almost 10-year IT 
 <h2>My strengths</h2>
 <ul>
   <li>I know what the <b>business value</b> of a feature or product means</li>
-  <li>I have a lot of experience in estimating development time for various features, hopefully this will help me with <b>reliable estimates</b> in a new role</li>
+  <li>I have a lot of experience in estimating development time for various features as a IT manager, it helps me with <b>reliable estimates</b> in a dev role</li>
   <li>Ability to <b>learn quickly</b> and with pleasure: I use my own knowledge system based on Evernote</li>
-  <li>I can communicate efficiently with developers, with product owner and other stakeholders</li>
+  <li>I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders</li>
 </ul>
 
 <h2>Solving algorithmic problems</h2>
