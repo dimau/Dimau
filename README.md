@@ -33,7 +33,7 @@
 - Vim
 - REST API
 
-## Basic understanding
+## Basic Understanding
 - Node.js
 - SQL
 - PostrgreSQL
@@ -63,7 +63,7 @@
   - EDI project (Retail)
   - Projects related to electronic document management (Diadoc)
 
-## My Pet Projects as a programmer
+## My Pet Projects as a Programmer
 - 2022: ToDo List (React + Redux)
 - 2016: Chat bot for searching of events in Moscow (Python)
 - 2012: Real estate rental search web-service in Ekateringurg "Svobodno.org" (HTML + CSS + JS + jQuery + PHP + MySQL)
