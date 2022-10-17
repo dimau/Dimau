@@ -46,6 +46,18 @@ Right now I am focused on **front-end** software development, but before that I 
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
 - <a href="https://www.codecademy.com/profiles/5869613752">Codecademy courses dedicated to TypeScript, React, Redux</a> (2022)
 
+## Experience in IT
+- Product Manager, 3logic company, development of an information system for the department of warranty service and work with claims (2021 - 2022)
+- Product Manager, Atol company, development of  (2018-2019)
+- Product/Project Manager, Yandex SpeechKit (2017 - 2018)
+- Product/Project Manager, Yandex Search (2015 - 2017)
+- Product/Project Manager, SKB Kontur (2009 - 2012)
+
+## My Pet Projects as a programmer
+- 2022: ToDo List (React + Redux)
+- 2016: Chat bot for searching of events in Moscow (Python)
+- 2012: Real estate rental search web-service in Ekateringurg "Svobodno.org" (HTML + CSS + JS + jQuery + PHP + MySQL)
+
 ## Contacts
 <ul>
   <li>Email: <a href="mailto:dimau777@gmail.com" target="_blank">dimau777@gmail.com</a></li>
