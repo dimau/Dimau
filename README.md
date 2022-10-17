@@ -1,6 +1,9 @@
 # Dmitrii Ushakov
 
-Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. Most of this time I spent in IT companies (Yandex, SKB Kontur and other large Russian IT companies) as a project manager and product manager. During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code with my own hands**. And now I finally decided to take a turn in my IT career and move to the role of a front-end developer :)
+- Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. 
+- Most of this time I spent in IT companies (Yandex, SKB Kontur and other large Russian IT companies) as a project manager and product manager. 
+- During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code with my own hands**. 
+- And now I finally decided to take a turn in my IT career and move to the role of a front-end developer :)
 
 ## My Strengths
 - ✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
@@ -56,7 +59,7 @@ Right now I am focused on **front-end** software development, but before that I 
   - Development of a Virtual assistant for Megafon mobile operator
 - Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
   - Some projects regarding improvement of search results and snippets 
-- Product/Project Manager, <a href="https://kontur.ru/">SKB Kontur</a> (2009 - 2012)
+- Product/Project Manager, <a href="https://kontur-inc.com/about/info">SKB Kontur</a> (2009 - 2012)
   - EDI project (Retail)
   - Projects related to electronic document management (Diadoc)
 
