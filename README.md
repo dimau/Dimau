@@ -41,10 +41,10 @@ Right now I am focused on **front-end** software development, but before that I 
 - Linux
 
 ## Education
-- Bachelor's degree in "Automation and control in engineering systems" (<a href="https://rtf.urfu.ru/en/">Ural Federal University</a>, 2004 - 2009)
-- <a href="https://learn.javascript.ru/courses/htmlcss">Modern HTML/CSS code course</a> (2022)
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
+- <a href="https://learn.javascript.ru/courses/htmlcss">Modern HTML/CSS code course</a> (2022)
 - <a href="https://www.codecademy.com/profiles/5869613752">Codecademy courses dedicated to TypeScript, React, Redux</a> (2022)
+- Bachelor's degree in "Automation and control in engineering systems" (<a href="https://rtf.urfu.ru/en/">Ural Federal University</a>, 2004 - 2009)
 
 ## Experience in IT
 - Product Manager, <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
