@@ -64,8 +64,13 @@
   - Projects related to electronic document management (Diadoc)
 
 ## My Pet Projects as a Programmer
-- 2022: ToDo List (React + Redux)
-- 2016: Chat bot for searching of events in Moscow (Python)
+- 2022: ToDo List
+  - Stack: React + Redux
+  - <a href="https://github.com/dimau/simple-to-do-list">Repository</a>
+- 2018: "Eventer" - telegram chat bot for searching of events in Moscow
+  - Stack: Python
+  - Doesn't work now
+  - <a href="https://github.com/dimau/Eventer">Repository</a>
 - 2012/13: "Svobodno.org" - online platform helping with long-term apartment renting
   - Stack: HTML + CSS + JS + jQuery + PHP + MySQL
   - Doesn't work now
