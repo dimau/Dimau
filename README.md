@@ -24,4 +24,6 @@ Right now I'm focused on Front-End Dev, but before that I had almost 10-year IT 
 <ul>
   <li>Email: <a href="mailto:dimau777@gmail.com" target="_blank">dimau777@gmail.com</a></li>
   <li>Telegram: <a href="https://t.me/UshakovDmitrii" target="_blank">@UshakovDmitrii</a></li>
+  <li>WhatsApp: +79221431615</li>
+  <li>WeChat: UshakovDmitrii</li>
 </ul>
