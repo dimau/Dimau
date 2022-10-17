@@ -47,11 +47,18 @@ Right now I am focused on **front-end** software development, but before that I 
 - <a href="https://www.codecademy.com/profiles/5869613752">Codecademy courses dedicated to TypeScript, React, Redux</a> (2022)
 
 ## Experience in IT
-- Product Manager, 3logic company, development of an information system for the department of warranty service and work with claims (2021 - 2022)
-- Product Manager, Atol company, development of  (2018-2019)
-- Product/Project Manager, Yandex SpeechKit (2017 - 2018)
-- Product/Project Manager, Yandex Search (2015 - 2017)
-- Product/Project Manager, SKB Kontur (2009 - 2012)
+- Product Manager, <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
+  - Development of an in-house nformation system for the department of warranty service and work with claims
+- Product Manager, <a href="https://www.atol.ru">Atol company</a> (2018-2019)
+  - Development of web services related to mandatory labeling of goods in Russia
+- Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
+  - Development of new skills for Virtual assistant "Alisa"
+  - Development of a Virtual assistant for Megafon mobile operator
+- Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
+  - Some projects regarding improvement of search results and snippets 
+- Product/Project Manager, <a href="https://kontur.ru/">SKB Kontur</a> (2009 - 2012)
+  - EDI project (Retail)
+  - Projects related to electronic document management (Diadoc)
 
 ## My Pet Projects as a programmer
 - 2022: ToDo List (React + Redux)
