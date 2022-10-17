@@ -1,10 +1,6 @@
 <h1>Dmitrii Ushakov</h1>
 
-Right now I'm focused on Front-End Dev, but before that I had almost 10-year IT career. Most of this time I spend in IT companies (Yandex, SKB Kontur and other big Russian IT companies) in Project and Product Manager role. I decided to make a pivot in my IT career for now and go to Front-End Dev role.
-
-- 👀 I’m interested in JavaScript, React, Redux, Front-End software development
-- 🌱 I’m currently on the junior level
-- 💞️ I’m looking to collaborate on an project where I can help with front-end development 
+Right now I am focused on front-end software development, but before that I had almost 10 years of experience in IT. Most of this time I spent in IT companies (Yandex, SKB Kontur and other large Russian IT companies) as a project manager and product manager. During all this time, I have been trying to do my own projects as a programmer, because I am in love with it and really enjoy writing code with my own hands. And now I decided to take a turn in my IT career and move to the role of a front-end developer :)
 
 <h2>My strengths</h2>
 <ul>
