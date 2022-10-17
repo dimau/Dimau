@@ -4,10 +4,10 @@ Right now I am focused on **front-end** software development, but before that I 
 
 <h2>My strengths</h2>
 <ul>
-  <li>I know what the <b>business value</b> of a feature or product means</li>
-  <li>I have a lot of experience in estimating development time for various features as a IT manager, it helps me with <b>reliable estimates</b> in a dev role</li>
+  <li>I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code</li>
   <li>Ability to <b>learn quickly</b> and with pleasure: I use my own knowledge system based on Evernote</li>
-  <li>I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders</li>
+  <li>I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams</li>
+  <li>I have a lot of experience in estimating development time for various features as a IT manager, it helps me with <b>reliable estimates</b> in a dev role</li>
 </ul>
 
 <h2>Solving algorithmic problems</h2>
