@@ -35,7 +35,9 @@ Right now I am focused on **front-end** software development, but before that I 
 - PostrgreSQL
 - Mongo DB
 - Go
-
+- Python
+- Docker
+- Linux
 
 ## Contacts
 <ul>
