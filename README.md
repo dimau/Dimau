@@ -8,13 +8,6 @@ Right now I am focused on **front-end** software development, but before that I 
 - ✅ I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams
 - ✅ I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
-<ol style="list-style-type:none;">
-  <li>✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code</li>
-  <li>✅ Ability to <b>learn quickly</b> and with pleasure: I use my own knowledge system based on Evernote</li>
-  <li>✅ I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams</li>
-  <li>✅ I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role</li>
-</ol>
-
 ## DSA: Solving Algorithmic Problems
 <ul>
   <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a></li>
