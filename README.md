@@ -66,7 +66,10 @@
 ## My Pet Projects as a Programmer
 - 2022: ToDo List (React + Redux)
 - 2016: Chat bot for searching of events in Moscow (Python)
-- 2012: Real estate rental search web-service in Ekateringurg "Svobodno.org" (HTML + CSS + JS + jQuery + PHP + MySQL)
+- 2012/13: "Svobodno.org" - online platform helping with long-term apartment renting
+  - Stack: HTML + CSS + JS + jQuery + PHP + MySQL
+  - Doesn't work now
+  - <a href="https://github.com/dimau/HC">Repository</a>
 
 ## Contacts
 <ul>
