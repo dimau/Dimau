@@ -23,25 +23,26 @@
 - HTML
 - CSS
 - BEM
+- CSS Modules
 - React
 - React Router
 - Redux
 - Redux Toolkit
 - Redux Thunk
-- CSS Modules
 - Git
 - Vim
 - REST API
 
 ## Basic Understanding
 - Node.js
+- Nginx (I can set up and run a simple web server)
+- Linux
+- Docker
 - SQL
 - PostrgreSQL
 - Mongo DB
 - Go
 - Python
-- Docker
-- Linux
 
 ## Education
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
