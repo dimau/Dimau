@@ -32,6 +32,7 @@
 - Git
 - Vim
 - REST API
+- Webpack
 
 ## Basic Understanding
 - Node.js
@@ -66,7 +67,7 @@
 
 ## My Pet Projects as a Programmer
 - 2022: ToDo List
-  - Stack: React + Redux
+  - Stack: React + Redux + TypeScript
   - <a href="https://github.com/dimau/simple-to-do-list">Repository</a>
 - 2018: "Eventer" - telegram chat bot for searching of events in Moscow
   - Stack: Python
