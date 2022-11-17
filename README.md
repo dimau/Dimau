@@ -70,6 +70,10 @@
   - Stack Frontend: React + Redux + TypeScript + OAuth 2.0 (for Google Tasks integration)
   - Stack Backend: Nginx + Linux
   - <a href="https://github.com/dimau/simple-to-do-list">Repository</a>
+- 2022: Library of HTML + CSS components (atomic web design)
+  - Stack Frontend: HTML5 + CSS3 (Flexbox, Grid, BEM)
+  - Stack Backend: Nginx + Linux
+  - <a href="https://library.dimau.ru">library.dimau.ru</a>
 - 2022: Monitoring system for 4 servers
   - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
   - Distributed system of 4 servers for a blockchain project, docker container's monitoring and alerts
