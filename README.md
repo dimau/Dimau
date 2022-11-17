@@ -13,7 +13,7 @@
 
 ## DSA: Solving Algorithmic Problems
 <ul>
-  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a></li> (over 100 algorithmic problems solved)
+  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a> (over 100 algorithmic problems solved)</li>
   <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
 </ul>
 
@@ -67,7 +67,8 @@
 
 ## My Pet Projects as a Programmer
 - 2022: ToDo List
-  - Stack: React + Redux + TypeScript
+  - Stack Frontend: React + Redux + TypeScript + OAuth 2.0 (for Google Tasks integration)
+  - Stack Backend: Nginx + Linux
   - <a href="https://github.com/dimau/simple-to-do-list">Repository</a>
 - 2022: Monitoring system for 4 servers
   - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
