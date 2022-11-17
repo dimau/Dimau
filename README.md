@@ -13,7 +13,7 @@
 
 ## DSA: Solving Algorithmic Problems
 <ul>
-  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a></li>
+  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a></li> (over 100 algorithmic problems solved)
   <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
 </ul>
 
@@ -69,6 +69,9 @@
 - 2022: ToDo List
   - Stack: React + Redux + TypeScript
   - <a href="https://github.com/dimau/simple-to-do-list">Repository</a>
+- 2022: Monitoring system for 4 servers
+  - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
+  - Distributed system of 4 servers for a blockchain project, docker container's monitoring and alerts
 - 2018: "Eventer" - telegram chat bot for searching of events in Moscow
   - Stack: Python
   - Doesn't work now
