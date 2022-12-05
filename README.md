@@ -65,7 +65,7 @@
   - EDI project (Retail)
   - Projects related to electronic document management (Diadoc)
 
-## My Pet Projects as a Programmer
+## Projects as a Programmer
 - 2022: ToDo List
   - Stack Frontend: React + Redux + TypeScript + OAuth 2.0 (for Google Tasks integration)
   - Stack Backend: Nginx + Linux
