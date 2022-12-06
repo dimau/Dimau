@@ -17,7 +17,7 @@
   <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
 </ul>
 
-## Main Stack
+## Main Stack (used in personal projects)
 - JavaScript
 - TypeScript
 - HTML
@@ -28,6 +28,7 @@
 - React Router
 - Redux
 - Redux Toolkit
+- RTK Query
 - Redux Thunk
 - Git
 - Vim
@@ -35,15 +36,15 @@
 - Webpack
 
 ## Basic Understanding
-- Node.js
-- Nginx (I can set up and run a simple web server)
-- Linux
+- Linux (basic administration and data wrangling)
+- Nginx (launched and maintain web server for personal projects)
 - Docker
 - SQL
 - PostrgreSQL
 - Mongo DB
 - Go
 - Python
+- Node.js
 
 ## Education
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
