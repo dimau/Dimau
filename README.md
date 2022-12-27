@@ -85,7 +85,7 @@
 
 ## DSA: Solving Algorithmic Problems
 <ul>
-  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a> (over 130 various algorithmic problems solved)</li>
+  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a> (over 200 various algorithmic and SQL problems solved)</li>
   <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
 </ul>
 
