@@ -23,6 +23,8 @@
 - Redux Toolkit
 - RTK Query
 - Redux Thunk
+- Jest
+- React Testing Library
 - Git
 - Vim
 - REST API
