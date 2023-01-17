@@ -66,6 +66,8 @@
   - <a href="https://github.com/dimau/HC">Repository</a>
 
 ## Experience in IT
+- Frontend Developer, Adamant (2022 - 2023)
+  - Creating personal task tracker system based on Google API
 - Product Manager, <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
   - Development of an in-house nformation system for the department of warranty service and work with claims
 - Product Manager, <a href="https://www.atol.ru">Atol company</a> (2018-2019)
@@ -75,7 +77,7 @@
   - Development of a Virtual assistant for Megafon mobile operator
 - Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
   - Some projects regarding improvement of search results and snippets 
-- Product/Project Manager, <a href="https://kontur-inc.com/about/info">SKB Kontur</a> (2009 - 2012)
+- Product/Project Manager, <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
   - EDI project (Retail)
   - Projects related to electronic document management (Diadoc)
 
