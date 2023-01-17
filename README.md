@@ -2,7 +2,7 @@
 
 - Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. 
 - Most of this time I spent in IT companies (Yandex, Kontur and other big Russian IT companies) as a project manager and product manager. 
-- During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code with my own hands**. 
+- During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code**.
 
 ## My Strengths
 - ✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
