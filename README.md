@@ -42,6 +42,9 @@
 - Python
 - Node.js
 
+## HTML code Portfolio ##
+- Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
+
 ## Projects as a Programmer
 - 2022: Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
