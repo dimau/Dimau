@@ -3,6 +3,7 @@
 - Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. 
 - Most of this time I spent in IT companies (Yandex, Kontur and other big Russian IT companies) as a project manager and product manager. 
 - During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code**.
+- You can check my <a href="#html-code-portfolio">**portfolio**</a>
 
 ## My Strengths
 - ✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
@@ -42,20 +43,19 @@
 - Python
 - Node.js
 
-## HTML code Portfolio ##
+## HTML Code Portfolio
+- Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
 - Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
+- Library of HTML + CSS components (Atomic Web Design) (<a href="https://library.dimau.ru">demo</a> | <a href="https://github.com/dimau/htmlcss-20220317_dimau777">repo</a>)
 
-## Projects as a Programmer
+## React + Redux Projects Portfolio
 - 2022: Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
   - Stack Backend: Nginx + Linux
   - <a href="https://taska.dimau.ru">taska.dimau.ru</a>
   - <a href="https://github.com/dimau/taska">Repository</a>
-- 2022: Library of HTML + CSS components (atomic web design)
-  - Stack Frontend: HTML5 + CSS3 (Flexbox, Grid, BEM)
-  - Stack Backend: Nginx + Linux
-  - <a href="https://library.dimau.ru">library.dimau.ru</a>
-  - <a href="https://github.com/dimau/htmlcss-20220317_dimau777">Repository</a>
+
+## Backend Projects Portfolio
 - 2022: Monitoring system for 4 servers
   - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
   - Distributed system of 4 servers for a blockchain project, docker container's monitoring and alerts
