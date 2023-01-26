@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/JS-3b8ea5?style=for-the-badge&logo=JavaScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/TS-3b8ea5?style=for-the-badge&logo=TypeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-3b8ea5?style=for-the-badge&logo=React&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux-3b8ea5?style=for-the-badge&logo=Redux&logoColor=ffffff">  <img src="https://img.shields.io/badge/React Router-3b8ea5?style=for-the-badge&logo=React Router&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Toolkit-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/RTK Query-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Thunk-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
 
 <img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Figma-3b8ea5?style=for-the-badge&logo=Figma&logoColor=ffffff">
 
 - Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
@@ -68,10 +68,9 @@
 - Bachelor's degree in "Automation and control in engineering systems" (<a href="https://rtf.urfu.ru/en/">Ural Federal University</a>, 2004 - 2009)
 
 ## DSA: Solving Algorithmic Problems
-<ul>
-  <li><a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a> (over 200 various algorithmic and SQL problems solved)</li>
-  <li><a href="https://www.codewars.com/users/dimau" target="_blank">Codewars Account</a></li>
-</ul>
+You can check my <a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dimau777?font=Open_Sans)](https://leetcode.com/dimau777)
 
 ## Contacts
 <ul>
