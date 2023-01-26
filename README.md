@@ -44,14 +44,20 @@
 - Node.js
 
 ## HTML Code Portfolio
+<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff">
+
 - Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
 - Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
-- Library of HTML + CSS components (Atomic Web Design) (<a href="https://library.dimau.ru">demo</a> | <a href="https://github.com/dimau/htmlcss-20220317_dimau777">repo</a>)
+- Web Components Library (<a href="https://library.dimau.ru">demo</a> | <a href="https://github.com/dimau/htmlcss-20220317_dimau777">repo</a>)
 
-## React + Redux Projects Portfolio
-- 2022: Task Tracker (integrated with REST API from Google Tasks)
+## Frontend Projects Portfolio
+<img src="https://img.shields.io/badge/JS-3b8ea5?style=for-the-badge&logo=JavaScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/TS-3b8ea5?style=for-the-badge&logo=TypeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-3b8ea5?style=for-the-badge&logo=React&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux-3b8ea5?style=for-the-badge&logo=Redux&logoColor=ffffff">  <img src="https://img.shields.io/badge/React Router-3b8ea5?style=for-the-badge&logo=React Router&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Toolkit-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/RTK Query-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Thunk-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
+
+<img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
+
+- Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
-  - Stack Backend: Nginx + Linux
   - <a href="https://youtu.be/YXobcdKTF2c">Screencast (1.5 minutes)</a>
   - <a href="https://taska.dimau.ru">taska.dimau.ru</a>
   - <a href="https://github.com/dimau/taska">Repository</a>
