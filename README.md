@@ -11,38 +11,6 @@
 - ✅ I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams
 - ✅ I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
-## Main Stack (used in projects)
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- BEM
-- CSS Modules
-- React
-- React Router
-- Redux
-- Redux Toolkit
-- RTK Query
-- Redux Thunk
-- Jest
-- React Testing Library
-- Git
-- Vim
-- REST API
-- Webpack
-- OAuth 2.0
-
-## Basic Understanding
-- Linux (basic administration and data wrangling)
-- Nginx (launched and maintain web server for personal projects)
-- Docker
-- SQL
-- PostrgreSQL
-- Mongo DB
-- Go
-- Python
-- Node.js
-
 ## HTML Code Portfolio
 <img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff">
 
@@ -54,7 +22,7 @@
 <img src="https://img.shields.io/badge/JS-3b8ea5?style=for-the-badge&logo=JavaScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/TS-3b8ea5?style=for-the-badge&logo=TypeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-3b8ea5?style=for-the-badge&logo=React&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux-3b8ea5?style=for-the-badge&logo=Redux&logoColor=ffffff">  <img src="https://img.shields.io/badge/React Router-3b8ea5?style=for-the-badge&logo=React Router&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Toolkit-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/RTK Query-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Thunk-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
 
 <img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
 
 - Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
@@ -63,6 +31,10 @@
   - <a href="https://github.com/dimau/taska">Repository</a>
 
 ## Backend Projects Portfolio
+<img src="https://img.shields.io/badge/Linux-3b8ea5?style=for-the-badge&logo=Linux&logoColor=ffffff"> <img src="https://img.shields.io/badge/Docker-3b8ea5?style=for-the-badge&logo=Docker&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/Vim-3b8ea5?style=for-the-badge&logo=Vim&logoColor=ffffff"> <img src="https://img.shields.io/badge/NGINX-3b8ea5?style=for-the-badge&logo=NGINX&logoColor=ffffff"> 
+
+<img src="https://img.shields.io/badge/SQL-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostgreSQL-3b8ea5?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff"> <img src="https://img.shields.io/badge/MySQL-3b8ea5?style=for-the-badge&logo=MySQL&logoColor=ffffff"> <img src="https://img.shields.io/badge/MongoDB-3b8ea5?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
+
 - 2022: Monitoring system for 4 servers
   - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
   - Distributed system of 4 servers for a blockchain project, docker container's monitoring and alerts
@@ -75,9 +47,7 @@
   - Doesn't work now
   - <a href="https://github.com/dimau/HC">Repository</a>
 
-## Experience in IT
-- Frontend Developer, Adamant (2022 - 2023)
-  - Creating personal task tracker system based on Google API
+## Project and Product Management
 - Product Manager, <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
   - Development of an in-house nformation system for the department of warranty service and work with claims
 - Product Manager, <a href="https://www.atol.ru">Atol company</a> (2018-2019)
