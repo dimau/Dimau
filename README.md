@@ -26,6 +26,9 @@ Implementation adaptive cross-browser **HTML/CSS markup** using **Sass/SCSS** pr
 <img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Figma-3b8ea5?style=for-the-badge&logo=Figma&logoColor=ffffff">
 
+Front-End applications development on **React** + **Redux** + **TypeScript** using **RTK Query** for **REST API**.<br>
+Testing with **Jest** + **React Testing Library**. Building projects with **Webpack**
+
 - Task Tracker (integrated with REST API from Google Tasks)
   - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
   - <a href="https://youtu.be/YXobcdKTF2c">Screencast (1.5 minutes)</a>
