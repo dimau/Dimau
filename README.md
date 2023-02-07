@@ -59,8 +59,10 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 ### Product Manager at <a href="https://www.atol.ru">Atol company</a> (2018-2019)
 - I managed the development of software for small and medium-sized businesses dedicated to mandatory labeling of goods in Russia
 ### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
-- Development of new skills for Virtual assistant "Alisa"
-- Development of a Virtual assistant for Megafon mobile operator
+- Managed a project to develop a chatbot for technical support for subscribers of major Russian mobile operators (MegaFon and Iota)
+- We used machine learning algorithms to determine the subject of call or message using phrases of subscribers, the extraction of entities from phrases and processed the treatment in accordance with the corresponding scenario
+- Created technical specifications and managed projects to develop new skills for virtual assistant "Alisa" (we taught Alice to work with alarm clocks, timers, to-do lists on various platforms)
+- I led the development and launch of the first dozen text-based games for the Alice (Yandex personal assistant). It was a great success, we had up to 250 000 users per day. I coordinated the work of a distributed team, which included both employees of several Yandex divisions and our partners
 ### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
 - I managed a cross-functional team of 6 people, we managed several projects dedicated to improvement of search results, snippets and content consumption directly on the search results
 - Implementation of a project to track changes in Wikipedia articles and update relevant snippets in search results within 30 minutes. Wikipedia articles appear on about 25% of search results pages, so it's important to give users up-to-date results for all such queries
