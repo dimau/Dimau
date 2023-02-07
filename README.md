@@ -52,22 +52,22 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
   - <a href="https://github.com/dimau/HC">Repository</a>
 
 ## Project and Product Management
-### Product Manager for <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
+### Product Manager at <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
 - Development of an in-house information system for the department of warranty service and work with claims
 - Conducted gathering information and analysis of business processes in the company related to the sales of products to partners through the B2B portal. Prepared technical specifications for adaptation of the B2B portal for a full sales cycle (including invoicing and delivery). Carried out the process of coordinating the necessary improvements on the portal with all stakeholders (sales department, IT department, top management). Participated in the implementation of the solution.
 - Carried out analysis of business processes in the warranty service and repair department. Proposed and agreed with the head of the warranty service department the optimization of business processes based on the implementation of a supporting information system. Developed technical specifications for the information system for the warranty department. Developed design layouts for the system in coordination with the outsourced UI/UX designer. Launched the development and led the outsourced development team.
-### Product Manager for <a href="https://www.atol.ru">Atol company</a> (2018-2019)
+### Product Manager at <a href="https://www.atol.ru">Atol company</a> (2018-2019)
 - I managed the development of software for small and medium-sized businesses dedicated to mandatory labeling of goods in Russia
-### Product/Project Manager for <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
+### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
 - Development of new skills for Virtual assistant "Alisa"
 - Development of a Virtual assistant for Megafon mobile operator
-### Product/Project Manager for <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
+### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
 - I managed a cross-functional team of 6 people, we managed several projects dedicated to improvement of search results, snippets and content consumption directly on the search results
 - Implementation of a project to track changes in Wikipedia articles and update relevant snippets in search results within 30 minutes. Wikipedia articles appear on about 25% of search results pages, so it's important to give users up-to-date results for all such queries
 - Adding testimonial visualization to snippets in search results (stars rated in search results)
 - Participated in the development and implementation of turbo pages in search results
 - The key metric for the team was the percentage of requests for which the user received a response in the search results without going anywhere else
-### Product/Project Manager for <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
+### Product/Project Manager at <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
 - EDI project (Retail)
 - Projects related to electronic document management (Diadoc)
 
