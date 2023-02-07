@@ -3,7 +3,6 @@
 - Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. 
 - Most of this time I spent in IT companies (Yandex, Kontur and other big Russian IT companies) as a project manager and product manager. 
 - During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code**.
-- You can check my <a href="#html-code-portfolio">**portfolio**</a>
 
 ## My Strengths
 - ✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
@@ -53,18 +52,20 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
   - <a href="https://github.com/dimau/HC">Repository</a>
 
 ## Project and Product Management
-- Product Manager, <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
-  - Development of an in-house nformation system for the department of warranty service and work with claims
-- Product Manager, <a href="https://www.atol.ru">Atol company</a> (2018-2019)
-  - Development of web services related to mandatory labeling of goods in Russia
-- Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
-  - Development of new skills for Virtual assistant "Alisa"
-  - Development of a Virtual assistant for Megafon mobile operator
-- Product/Project Manager, <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
-  - Some projects regarding improvement of search results and snippets 
-- Product/Project Manager, <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
-  - EDI project (Retail)
-  - Projects related to electronic document management (Diadoc)
+### Product Manager for <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
+- Development of an in-house nformation system for the department of warranty service and work with claims
+- Conducted gathering information and analysis of business processes in the company related to the sales of products to partners through the B2B portal. Prepared technical specifications for adaptation of the B2B portal for a full sales cycle (including invoicing and delivery). Carried out the process of coordinating the necessary improvements on the portal with all stakeholders (sales department, IT department, top management). Participated in the implementation of the solution.
+- Carried out analysis of business processes in the warranty service and repair department. Proposed and agreed with the head of the warranty service department the optimization of business processes based on the implementation of a supporting information system. Developed technical specifications for the information system for the warranty department. Developed design layouts for the system in coordination with the outsourced UI/UX designer. Launched the development and led the outsourced development team.
+### Product Manager for <a href="https://www.atol.ru">Atol company</a> (2018-2019)
+- Development of web services related to mandatory labeling of goods in Russia
+### Product/Project Manager for <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
+- Development of new skills for Virtual assistant "Alisa"
+- Development of a Virtual assistant for Megafon mobile operator
+### Product/Project Manager for <a href="https://yandex.com/company/">Yandex</a> Search (2015 - 2017)
+- Some projects regarding improvement of search results and snippets 
+### Product/Project Manager for <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
+- EDI project (Retail)
+- Projects related to electronic document management (Diadoc)
 
 ## Education
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
