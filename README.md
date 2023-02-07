@@ -11,8 +11,8 @@
 - ✅ I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams
 - ✅ I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
-## HTML Code Portfolio
-<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff">
+## HTML/CSS Code Portfolio
+<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff">
 
 - Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
 - Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
