@@ -1,8 +1,9 @@
 # Dmitrii Ushakov
 
-- Right now I am focused on **front-end** software development, but before that I had almost **10 years of experience in IT**. 
-- Most of this time I spent in IT companies (Yandex, Kontur and other big Russian IT companies) as a project manager and product manager. 
-- During all this time, I have been trying to do my own projects as a programmer, because **I am in love with programming** and **really enjoy writing code**.
+- I'm looking for a project where I can apply my skills in the field of **front-end development**, you can check examples of my work below
+- I have over **10 years of experience in IT** in various roles, during which time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers
+- I adhere to a systematic approach and try to dive deep into the subject area of the company, not just write code according to the technical requirements, but **participate in the life of the team, offer technical and organizational solutions**
+- If you divide people into two categories - those who like to work in startups, and those who prefer corporations, I am a **startup person**. Due to a wide range of interests in IT, I like to solve a variety of tasks - from HTML/CSS coding to improvement of business processes. But most of all I like to **write code and work out technical solutions**
 
 ## My Strengths
 - ✅ I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
