@@ -78,9 +78,8 @@ You can check my <a href="https://leetcode.com/dimau777/" target="_blank">Leetco
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dimau777?font=Open_Sans)](https://leetcode.com/dimau777)
 
 ## Contacts
-<ul>
-  <li>Email: <a href="mailto:dimau777@gmail.com" target="_blank">dimau777@gmail.com</a></li>
-  <li>Telegram: <a href="https://t.me/UshakovDmitrii" target="_blank">@UshakovDmitrii</a></li>
-  <li>WhatsApp: +79221431615</li>
-  <li>WeChat: UshakovDmitrii</li>
-</ul>
+- Email: <a href="mailto:dimau777@gmail.com" target="_blank">dimau777@gmail.com</a><br>
+- Telegram: <a href="https://t.me/UshakovDmitrii" target="_blank">@UshakovDmitrii</a><br>
+- WhatsApp: +79221431615<br>
+- WeChat: UshakovDmitrii<br>
+- Facebook: <a href="https://www.facebook.com/UshakovDmitriiVladimirovich">Dmitrii Ushakov</a><br>
