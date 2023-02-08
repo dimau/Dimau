@@ -14,7 +14,7 @@
 ## HTML/CSS Code Portfolio
 <img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff">
 
-Responsive and cross-browser **HTML/CSS markup** development using **Sass/SCSS** preprocessor, **PostCSS** postprocessor, **semantic HTML** tags to increase accessibility, as well as adding dynamics to the UI with **CSS animations**, building projects with **Webpack**
+Responsive and cross-browser **HTML/CSS markup** development using **Sass/SCSS** preprocessor, **PostCSS**, **semantic HTML** tags to increase accessibility, as well as adding dynamics to the UI with **CSS animations**, building projects with **Webpack**
 
 - Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
 - Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
