@@ -54,7 +54,7 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 
 ## Project and Product Management
 ### Product Manager at <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
-- Development of an in-house information system for the department of warranty service and work with claims
+- Development of an in-house information system for the warranty service department and work with claims
 - Conducted gathering information and analysis of business processes in the company related to the sales of products to partners through the B2B portal. Prepared technical specifications for adaptation of the B2B portal for a full sales cycle (including invoicing and delivery). Carried out the process of coordinating the necessary improvements on the portal with all stakeholders (sales department, IT department, top management). Participated in the implementation of the solution.
 - Carried out analysis of business processes in the warranty service and repair department. Proposed and agreed with the head of the warranty service department the optimization of business processes based on the implementation of a supporting information system. Developed technical specifications for the information system for the warranty department. Developed design layouts for the system in coordination with the outsourced UI/UX designer. Launched the development and led the outsourced development team.
 ### Product Manager at <a href="https://www.atol.ru">Atol company</a> (2018-2019)
