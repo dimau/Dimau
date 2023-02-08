@@ -1,7 +1,7 @@
 # Dmitrii Ushakov
 
 - I'm looking for a project where I can apply my skills in the field of **front-end development**, you can check examples of my work below
-- I have over **10 years of experience in IT** in various roles, during which time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers
+- I have over **10 years of experience in IT** in various roles, during this time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers
 - I adhere to a systematic approach and try to dive deep into the subject area of the company, not just write code according to the technical requirements, but **participate in the life of the team, offer technical and organizational solutions**
 - If you divide people into two categories - those who like to work in startups, and those who prefer corporations, I am a **startup person**. Due to a wide range of interests in IT, I like to solve a variety of tasks - from HTML/CSS coding to improvement of business processes. But most of all I like to **write code and work out technical solutions**
 
