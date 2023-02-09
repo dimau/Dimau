@@ -75,12 +75,13 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 - Projects related to electronic document management (Diadoc)
 
 ## Education
+- Bachelor's degree in "Automation and control in engineering systems" (<a href="https://rtf.urfu.ru/en/">Ural Federal University</a>, 2004 - 2009)
 - <a href="https://learn.javascript.ru/courses/react">React Professional Web Development course</a> (2022)
 - <a href="https://learn.javascript.ru/courses/htmlcss">Modern HTML/CSS code course</a> (2022)
 - <a href="https://www.codecademy.com/profiles/5869613752">Codecademy courses dedicated to TypeScript, React, Redux</a> (2022)
-- Bachelor's degree in "Automation and control in engineering systems" (<a href="https://rtf.urfu.ru/en/">Ural Federal University</a>, 2004 - 2009)
 
 ## DSA: Solving Algorithmic Problems
+More than 300 algorithmic and SQL problems solved on Leetcode<br>
 You can check my <a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dimau777?font=Open_Sans)](https://leetcode.com/dimau777)
