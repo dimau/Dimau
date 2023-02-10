@@ -41,7 +41,7 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 
 <img src="https://img.shields.io/badge/SQL-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostgreSQL-3b8ea5?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff"> <img src="https://img.shields.io/badge/MySQL-3b8ea5?style=for-the-badge&logo=MySQL&logoColor=ffffff"> <img src="https://img.shields.io/badge/MongoDB-3b8ea5?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
 
-- 2022: Monitoring system for 4 servers
+- 2022: Monitoring system based on Prometheus & Grafana
   - Stack: Prometheus + Grafana + Alertmanager + Node-exporter + cAdvisor + Caddy + Linux + Docker
   - Distributed system of 4 servers for a blockchain project, docker container's monitoring and alerts
 - 2018: "Eventer" - telegram chat bot for searching of events in Moscow
