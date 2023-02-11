@@ -11,9 +11,9 @@
 ## My Strengths
 :white_check_mark: I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
 
-:white_check_mark: Ability to <b>learn quickly</b> and with pleasure: I use my own knowledge system based on Evernote
+:white_check_mark: Ability to <b>learn quickly</b> and with pleasure — I use my own knowledge system based on Evernote
 
-:white_check_mark: I can <b>communicate efficiently</b> with developers, with product owner and other stakeholders due to my extensive experience in various IT teams
+:white_check_mark: **Effective communication** with developers, product owner and other stakeholders due to my extensive experience in various IT teams
 
 :white_check_mark: I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
