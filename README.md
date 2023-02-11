@@ -2,7 +2,7 @@
 
 :mag: I'm looking for a project where I can apply my **front-end development** skills, you can check examples of my work below
 
-:mortar_board: I have over **10 years of experience in IT** in various roles, during this time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers
+:mortar_board: I have over **10 years' experience in IT** in various roles, during this time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers
 
 :atom: I adhere to a systematic approach and try to dive deep into the subject area of the company, not just write code according to the technical requirements, but **participate in the life of the team, offer technical and organizational solutions**
 
