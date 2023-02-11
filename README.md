@@ -62,6 +62,8 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
   - <a href="https://github.com/dimau/HC">Repository</a>
 
 ## Project and Product Management
+<img src="https://img.shields.io/badge/Agile-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Scrum-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Kanban-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Unit Economics-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Management-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Business Process Optimization-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Lean Product Development-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Customer Development-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
+
 ### Product Manager at <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
 - Development of an in-house information system for the warranty service department and work with claims
 - Conducted gathering information and analysis of business processes in the company related to the sales of products to partners through the B2B portal. Prepared technical specifications for adaptation of the B2B portal for a full sales cycle (including invoicing and delivery). Carried out the process of coordinating the necessary improvements on the portal with all stakeholders (sales department, IT department, top management). Participated in the implementation of the solution.
