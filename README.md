@@ -27,6 +27,8 @@ Responsive and cross-browser **HTML/CSS markup** development using **Sass/SCSS**
 - Lambo (<a href="https://dimau.github.io/lamborghini/">demo</a> | <a href="https://github.com/dimau/lamborghini">repo</a>)
 - Web Components Library (<a href="https://library.dimau.ru">demo</a> | <a href="https://github.com/dimau/htmlcss-20220317_dimau777">repo</a>)
 
+![Webtronics gif demo](https://user-images.githubusercontent.com/1804537/218250664-62567966-4562-491b-a2f4-c01859aaa610.gif)
+
 ## Frontend Projects Portfolio
 <img src="https://img.shields.io/badge/JS-3b8ea5?style=for-the-badge&logo=JavaScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/TS-3b8ea5?style=for-the-badge&logo=TypeScript&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-3b8ea5?style=for-the-badge&logo=React&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux-3b8ea5?style=for-the-badge&logo=Redux&logoColor=ffffff">  <img src="https://img.shields.io/badge/React Router-3b8ea5?style=for-the-badge&logo=React Router&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Toolkit-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/RTK Query-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Redux Thunk-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
 
