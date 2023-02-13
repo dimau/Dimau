@@ -81,6 +81,7 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 - I managed a cross-functional team of 6 people, we managed several projects dedicated to improvement of search results, snippets and content consumption directly on the search results
 - Implementation of a project to track changes in Wikipedia articles and update relevant snippets in search results within 30 minutes. Wikipedia articles appear on about 25% of search results pages, so it's important to give users up-to-date results for all such queries
 - Adding testimonial visualization to snippets in search results (stars rated in search results)
+- Conducted a series of experiments with search results on mobile devices and selected the optimal heading length, text size and font size for snippets according to metrics
 - Participated in the development and implementation of turbo pages in search results
 - The key metric for the team was the percentage of requests for which the user received a response in the search results without going anywhere else
 ### Product/Project Manager at <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
