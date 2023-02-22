@@ -18,7 +18,7 @@
 :white_check_mark: I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
 ## HTML/CSS Code Portfolio
-<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff">
+<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff"> <img src="https://img.shields.io/badge/GSAP animations-3b8ea5?style=for-the-badge&logo=greensock&logoColor=ffffff">
 
 Responsive and cross-browser **HTML/CSS markup** development using **Sass/SCSS** preprocessor, **PostCSS**, **semantic HTML** tags to increase accessibility, as well as adding dynamics to the UI with **CSS animations**, building projects with **Webpack**
 
