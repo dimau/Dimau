@@ -72,6 +72,7 @@ One of the largest distributors of computer components and IT equipment in Russi
   - Prepared technical specifications for adaptation of the B2B portal for a full sales cycle (including invoicing and delivery).
   - Carried out the process of coordinating the necessary improvements on the portal with all stakeholders (sales department, IT department, top management).
 ### Product Manager at <a href="https://www.atol.ru">Atol company</a> (2018-2019)
+The leader in Russia in the production and wholesale of equipment for retail. More than half of the cash equipment in Russia were produced or supplied by Atol
 - I managed the development of software for small and medium-sized businesses dedicated to mandatory labeling of goods in Russia
 ### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
 - Managed a project to develop a chatbot for technical support for subscribers of major Russian mobile operators (MegaFon and Iota)
