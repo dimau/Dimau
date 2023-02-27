@@ -96,7 +96,7 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 - <a href="https://www.codecademy.com/profiles/5869613752">Codecademy courses dedicated to TypeScript, React, Redux</a> (2022)
 
 ## DSA: Solving Algorithmic Problems
-More than 300 algorithmic and SQL problems solved on Leetcode<br>
+More than 350 algorithmic and SQL problems solved on Leetcode<br>
 You can check my <a href="https://leetcode.com/dimau777/" target="_blank">Leetcode Account</a>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dimau777?font=Open_Sans)](https://leetcode.com/dimau777)
