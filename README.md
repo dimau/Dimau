@@ -88,6 +88,7 @@ Yandex - IT giant, Russian Google. The search engine from Yandex is used by half
 - Participated in the development and implementation of turbo pages in search results
 - The key metric for the team was the percentage of requests for which the user received a response in the search results without going anywhere else
 ### Product/Project Manager at <a href="https://kontur-inc.com/about/info">Kontur</a> (2009 - 2012)
+One of the largest IT companies in Russia, a leader in cloud software for business and accounting. Client base - more than 2 million companies. Half of the electronic document flow between organizations in Russia is carried out using Kontur web services
 - EDI project (Retail)
 - Projects related to electronic document management (Diadoc)
 
