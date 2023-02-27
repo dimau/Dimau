@@ -75,6 +75,7 @@ One of the largest distributors of computer components and IT equipment in Russi
 The leader in Russia in the production and wholesale of equipment for retail. More than half of the cash equipment in Russia were produced or supplied by Atol
 - I managed the development of software for small and medium-sized businesses dedicated to mandatory labeling of goods in Russia
 ### Product/Project Manager at <a href="https://yandex.com/company/">Yandex</a> SpeechKit (2017 - 2018)
+Yandex - IT giant, Russian Google. The search engine from Yandex is used by half of the population of Russia and the CIS countries (the second half uses Google). In addition, Yandex is successfully developing a whole ecosystem of services: taxi, delivery, marketplace, music service...
 - Managed a project to develop a chatbot for technical support for subscribers of major Russian mobile operators (MegaFon and Iota)
 - We used machine learning algorithms to determine the subject of call or message using phrases of subscribers, the extraction of entities from phrases and processed the treatment in accordance with the corresponding scenario
 - Created technical specifications and managed projects to develop new skills for virtual assistant "Alisa" (we taught Alice to work with alarm clocks, timers, to-do lists on various platforms)
