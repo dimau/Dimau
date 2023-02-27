@@ -13,7 +13,7 @@
 ## HTML/CSS Code Portfolio
 <img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff"> <img src="https://img.shields.io/badge/GSAP animations-3b8ea5?style=for-the-badge&logo=greensock&logoColor=ffffff">
 
-Responsive and cross-browser **HTML/CSS markup** development using **Sass/SCSS** preprocessor, **PostCSS**, **semantic HTML** tags to increase accessibility, as well as adding dynamics to the UI with **CSS ans GSAP animations**, building projects with **Webpack**
+Responsive and cross-browser <b>HTML / CSS markup</b> development using <b>Sass / SCSS</b> preprocessor, <b>PostCSS</b>, <b>semantic HTML</b> tags to increase accessibility, as well as adding dynamics to the UI with <b>CSS and GSAP animations</b>. Building projects with <b>Webpack</b>. Working with design from <b>Figma</b> or <b>Photoshop</b>
 
 - Webtronics (<a href="https://dimau.github.io/webtronics-public/">demo</a> | <a href="https://github.com/dimau/webtronics">repo</a>)
 - Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
