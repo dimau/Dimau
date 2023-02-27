@@ -61,6 +61,7 @@ Testing with **Jest** + **React Testing Library**. Building projects with **Webp
 <img src="https://img.shields.io/badge/Lean Product Development-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Customer Development-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/UX testing-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/A%2FB testing-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff">
 
 ### Product Manager at <a href="https://3logic.ru/about/">3logic company</a> (2021 - 2022)
+One of the largest distributors of computer components and IT equipment in Russia. Including the company is the official distributor of ASUS, AMD, Gigabyte, Intel and many other manufacturers of computer components
 - Development of an in-house information system for the warranty service and repair department.
   - Carried out analysis of business processes in the warranty service and repair department. 
   - Developed technical specifications for the information system for the warranty service department. 
