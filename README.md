@@ -1,21 +1,14 @@
 # Dmitrii Ushakov
-
-:mag: I'm looking for a project where I can apply my **front-end development** skills, you can check examples of my work below
-
-:mortar_board: I have over **10 years' experience in IT** in various roles, during this time I have learned to find a common language with clients, managers, designers, analysts and, of course, developers, I have learned to solve a wide variety of tasks
-
-:atom: I adhere to a systematic approach and try to dive deep into the subject area of the company, not just write code according to the technical requirements, but **participate in the life of the team, offer technical and organizational solutions**
-
-:rocket: If you divide people into two categories - those who like to work in startups, and those who prefer corporations, I am a **startup person**. Due to a wide range of interests in IT, I like to solve a variety of tasks - from HTML/CSS coding to improvement of business processes. But most of all I like to **write code and work out technical solutions**
+- I am a **Front-End Developer** with over **10 years of experience in IT**.
+- While most IT professionals only speak in tech terms, I am very **capable of speaking with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers. 
+- I specialise in **working with start-ups**. I am also competent at **providing organisational solutions** to many problems that startups face such as improving business processes. 
+- But most of all, I love to write code and figure out technical solutions.
 
 ## My Strengths
-:white_check_mark: I know what the <b>business value</b> of a feature or product means. So when I take on a task, my focus is on solving a business problem, not just writing code
-
-:white_check_mark: Ability to <b>learn quickly</b> and with pleasure — I use my own knowledge system based on Evernote
-
-:white_check_mark: **Effective communication** with developers, product owner and other stakeholders due to my extensive experience in various IT teams
-
-:white_check_mark: I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
+- I strive to understand **the purpose of the product/website** so that the code I write **solves your business problem**. I am not just another developer who blindly follows instructions.
+- Ability to <b>learn quickly</b> and with pleasure — I use my own knowledge system based on Evernote
+- **Effective communication** with developers, product owner and other stakeholders due to my extensive experience in various IT teams
+- I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
 ## HTML/CSS Code Portfolio
 <img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff"> <img src="https://img.shields.io/badge/GSAP animations-3b8ea5?style=for-the-badge&logo=greensock&logoColor=ffffff">
