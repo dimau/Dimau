@@ -5,15 +5,15 @@
 - But most of all, I love to write code and figure out technical solutions.
 
 ## My Strengths
-- I strive to understand **the purpose of the product/website** so that the code I write **solves your business problem**. I am not just another developer who blindly follows instructions.
+- I strive to understand <b>the purpose of the product / website / task</b> so that the code I write **solves the business problem**.
 - Ability to <b>learn quickly</b> and with pleasure — I use my own knowledge system based on Evernote
-- **Effective communication** with developers, product owner and other stakeholders due to my extensive experience in various IT teams
+- <b>Effective communication</b> with developers, product owner and other stakeholders due to my extensive experience in various IT teams
 - I have a lot of experience in estimating development time for various features as an IT manager, it helps me with <b>reliable estimates</b> in a dev role
 
 ## HTML/CSS Code Portfolio
-<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff"> <img src="https://img.shields.io/badge/GSAP animations-3b8ea5?style=for-the-badge&logo=greensock&logoColor=ffffff">
+<img src="https://img.shields.io/badge/HTML5-3b8ea5?style=for-the-badge&logo=HTML5&logoColor=ffffff"> <img src="https://img.shields.io/badge/CSS3-3b8ea5?style=for-the-badge&logo=CSS3&logoColor=ffffff"> <img src="https://img.shields.io/badge/BEM-3b8ea5?style=for-the-badge&logo=BEM&logoColor=ffffff"> <img src="https://img.shields.io/badge/Sass%2FSCSS-3b8ea5?style=for-the-badge&logo=Sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/PostCSS-3b8ea5?style=for-the-badge&logo=PostCSS&logoColor=ffffff"> <img src="https://img.shields.io/badge/GSAP animations-3b8ea5?style=for-the-badge&logo=greensock&logoColor=ffffff"> <img src="https://img.shields.io/badge/Pug-3b8ea5?style=for-the-badge&logo=pug&logoColor=ffffff">
 
-Responsive and cross-browser <b>HTML / CSS markup</b> development using <b>Sass / SCSS</b> preprocessor, <b>PostCSS</b>, <b>semantic HTML</b> tags to increase accessibility, as well as adding dynamics to the UI with <b>CSS and GSAP animations</b>. Building projects with <b>Webpack</b>. Working with design from <b>Figma</b> or <b>Photoshop</b>
+Responsive and cross-browser <b>HTML / CSS markup</b> development using <b>Sass / SCSS</b> preprocessor, <b>PostCSS</b>, <b>Pug</b>, <b>semantic HTML</b> tags to increase accessibility, as well as adding dynamics to the UI with <b>CSS and GSAP animations</b>. Building projects with <b>Webpack</b>. Working with design from <b>Figma</b> or <b>Photoshop</b>
 
 - Webtronics (<a href="https://dimau.github.io/webtronics-public/">demo</a> | <a href="https://github.com/dimau/webtronics">repo</a>)
 - Air Robots (<a href="https://dimau.github.io/airrobots/">demo</a> | <a href="https://github.com/dimau/airrobots">repo</a>)
