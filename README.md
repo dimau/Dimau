@@ -3,6 +3,9 @@
 - While most IT professionals only speak in tech terms, I am very **capable of speaking with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers. 
 - I specialise in **working with start-ups**. I am also competent at **providing organisational solutions** to many problems that startups face such as improving business processes. 
 - But most of all, I love to write code and figure out technical solutions.
+- My <a href="#htmlcss-code-portfolio">HTML/CSS Code Portfolio</a>
+- My <a href="#frontend-projects-portfolio">Frontend (React / Redux) Projects Portfolio</a>
+- My <a href="#backend-projects-portfolio">Backend Projects Portfolio</a>
 
 ## My Strengths
 - I strive to understand <b>the purpose of the product / website / task</b> so that the code I write **solves the business problem**.
