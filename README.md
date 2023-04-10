@@ -4,9 +4,9 @@
 - I am most interested in working with startups, and in addition to my software development skills, I can help organize the work of the development team if necessary.
 - But most of all, I love to write code and figure out technical solutions.
 - You can check my Portfolio
-  - <a href="#htmlcss-code-portfolio">HTML/CSS Code Portfolio</a>
-  - <a href="#frontend-projects-portfolio">Frontend (React / Redux) Projects Portfolio</a>
-  - <a href="#backend-projects-portfolio">Backend Projects Portfolio</a>
+  - <a href="https://github.com/dimau#htmlcss-code-portfolio">HTML/CSS Code Portfolio</a>
+  - <a href="https://github.com/dimau#frontend-projects-portfolio">Frontend (React / Redux) Projects Portfolio</a>
+  - <a href="https://github.com/dimau#backend-projects-portfolio">Backend Projects Portfolio</a>
 
 ## My Strengths
 - I strive to understand <b>the purpose of the product / website / task</b> so that the code I write **solves the business problem**.
