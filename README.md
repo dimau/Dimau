@@ -33,14 +33,15 @@ Responsive and cross-browser <b>HTML / CSS markup</b> development using <b>Sass 
 <img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Figma-3b8ea5?style=for-the-badge&logo=Figma&logoColor=ffffff">
 
-Front-End applications development on **React** + **Redux** + **TypeScript** using **RTK Query** for **REST API**.<br>
+Front-End applications development on **Next.js** + **React** + **Redux** + **TypeScript** using **RTK Query** and **SWR** for **REST API**.<br>
 Testing with **Jest** + **React Testing Library**. Building projects with **Webpack**
 
-- Task Tracker (integrated with REST API from Google Tasks)
-  - Stack Frontend: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
+- Airfare Low Price Calendar (<a href="https://aviasales-nextjs-app.vercel.app/">demo</a> | <a href="https://github.com/dimau/aviasales-nextjs-app">repo</a>)
+  - Stack: Next.js + React + Redux + TS + SWR
+  - Based on Aviasales REST API
+- Task Tracker (integrated with REST API from Google Tasks) (<a href="https://taska.dimau.ru">demo</a> | <a href="https://github.com/dimau/taska">repo</a>)
+  - Stack: React + Redux + TS + RTKQ + OAuth 2.0 (for Google Tasks integration)
   - <a href="https://youtu.be/YXobcdKTF2c">Screencast (1.5 minutes)</a>
-  - <a href="https://taska.dimau.ru">taska.dimau.ru</a>
-  - <a href="https://github.com/dimau/taska">Repository</a>
 
 ## Backend Projects Portfolio
 <img src="https://img.shields.io/badge/Linux-3b8ea5?style=for-the-badge&logo=Linux&logoColor=ffffff"> <img src="https://img.shields.io/badge/Docker-3b8ea5?style=for-the-badge&logo=Docker&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/Vim-3b8ea5?style=for-the-badge&logo=Vim&logoColor=ffffff"> <img src="https://img.shields.io/badge/NGINX-3b8ea5?style=for-the-badge&logo=NGINX&logoColor=ffffff"> 
