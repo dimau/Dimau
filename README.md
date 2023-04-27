@@ -1,5 +1,5 @@
 # Dmitrii Ushakov
-- I am a **Full-Stack Software Engineer** with over **10 years of experience in IT**.
+- I am a **Front-End Software Developer** with over **10 years of experience in IT**.
 - While most IT professionals only speak in tech terms, I am very **capable of speaking with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers. 
 - I am most interested in working with startups, and in addition to my software development skills, I can help organize the work of the development team if necessary.
 - But most of all, I love to write code and figure out technical solutions.
