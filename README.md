@@ -1,9 +1,8 @@
 # Dmitrii Ushakov
-- I am a **Front-End Software Developer** with over **10 years of experience in IT**.
-- I am very **capable of speaking with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers.
+- I am a **Front-End Software Developer** with over **10 years of experience in various IT roles**.
+- Strong **soft skills** help me **communicate effectively with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers.
 - I am most interested in working with startups, and in addition to my software development skills, I can help organize the work of the development team if necessary.
-- But most of all, I love to write code and figure out technical solutions.
-- You can check my Portfolio
+- But most of all, I love to write code and figure out technical solutions, you can check my Portfolio
   - <a href="https://github.com/dimau#htmlcss-code-portfolio">HTML/CSS Code Portfolio</a>
   - <a href="https://github.com/dimau#frontend-projects-portfolio">Frontend (React / Redux) Projects Portfolio</a>
   - <a href="https://github.com/dimau#backend-projects-portfolio">Backend Projects Portfolio</a>
