@@ -1,5 +1,5 @@
 # Dmitrii Ushakov
-- I am a **Front-End Software Developer** with over **10 years of experience in various IT roles**.
+- I am a **Frontend Software Developer** with over **10 years of experience in various IT roles**.
 - Strong **soft skills** help me **communicate effectively with both technical and non-technical team members** including clients, managers, designers, analysts, and, of course, developers.
 - I am most interested in working with startups, and in addition to my software development skills, I can help organize the work of the development team if necessary.
 - But most of all, I love to write code and figure out technical solutions, you can check my Portfolio
@@ -32,12 +32,12 @@ Responsive and cross-browser <b>HTML / CSS markup</b> development using <b>Sass 
 <img src="https://img.shields.io/badge/CSS Modules-3b8ea5?style=for-the-badge&logo=CSS Modules&logoColor=ffffff"> <img src="https://img.shields.io/badge/Jest-3b8ea5?style=for-the-badge&logo=Jest&logoColor=ffffff"> <img src="https://img.shields.io/badge/Testing Library-3b8ea5?style=for-the-badge&logo=Testing Library&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Webpack-3b8ea5?style=for-the-badge&logo=Webpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/REST API-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Git-3b8ea5?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/OAuth 2.0-3b8ea5?style=for-the-badge&logo=&logoColor=ffffff"> <img src="https://img.shields.io/badge/Figma-3b8ea5?style=for-the-badge&logo=Figma&logoColor=ffffff">
 
-Front-End applications development on **Next.js** + **React** + **Redux** + **TypeScript** using **RTK Query** and **SWR** for **REST API**.<br>
+Frontend applications development on **Next.js** + **React** + **Redux** + **TypeScript** using **RTK Query** and **SWR** for **REST API**.<br>
 Testing with **Jest** + **React Testing Library** + **Playwright**. Building projects with **Webpack**
 
 - Chosy Web App (<a href="https://youtu.be/JYPr203Jcqw">short video demo</a>)
   - Stack: React + SWR + TS + Playwright
-  - I worked for Chosy (HR startup) as a leader of a small front-end team of 3 people
+  - I worked for Chosy (HR startup) as a leader of a small frontend team of 3 people
   - Web App works inside Telegram bot in Web View
 - Airfare Low Price Calendar (<a href="https://aviasales-nextjs-app.vercel.app/">demo</a> | <a href="https://github.com/dimau/aviasales-nextjs-app">repo</a>)
   - Stack: Next.js + React + Redux + TS + SWR
